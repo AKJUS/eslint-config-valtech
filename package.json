@@ -17,7 +17,7 @@
   "license": "MIT",
   "homepage": "https://github.org/valtech-nyc/eslint-config-valtech#readme",
   "devDependencies": {
-    "eslint": "^4.14.0"
+    "eslint": "^9.32.0"
   },
   "dependencies": {
     "eslint-plugin-jsdoc": "^3.3.0",
